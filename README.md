@@ -17,11 +17,13 @@ This repository contains all materials, code, and documentation for my MLOps cou
 To set up the development environment:
 
 1. Clone this repository
-2. Create a conda environment: `conda create --name mlops python=3.12`
-3. Activate the conda environment:
-   - `conda activate mlops`
-4. Install dependencies: `pip install -r requirements.txt`
-
+2. Create a conda environment from the provided configuration:
+   ```bash
+   conda env create -f env.yml
+   conda activate mlops
+   
+   # To deactivate when you're done:
+   conda deactivate
 ## Course Progress
 
 This repository will be updated throughout the course as we explore different MLOps concepts 
