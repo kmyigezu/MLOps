@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/0aa63e4c911e41c0b47c15360b805f13/artifacts
+end_time: 1745813749068
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 0aa63e4c911e41c0b47c15360b805f13
+run_name: suave-moth-322
+run_uuid: 0aa63e4c911e41c0b47c15360b805f13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813748534
+status: 3
+tags: []
+user_id: kalu

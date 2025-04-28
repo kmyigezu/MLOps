@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/baac362e295a4616ac4ebe0df81f5bb7/artifacts
+end_time: 1745746522722
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: baac362e295a4616ac4ebe0df81f5bb7
+run_name: big-duck-891
+run_uuid: baac362e295a4616ac4ebe0df81f5bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746521630
+status: 3
+tags: []
+user_id: kalu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/4c2d451a07054c9eb18ec8287d93081b/artifacts
+end_time: 1745746508935
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: 4c2d451a07054c9eb18ec8287d93081b
+run_name: nervous-duck-307
+run_uuid: 4c2d451a07054c9eb18ec8287d93081b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746507897
+status: 3
+tags: []
+user_id: kalu

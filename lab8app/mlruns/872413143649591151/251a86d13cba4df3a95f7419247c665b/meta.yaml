@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/251a86d13cba4df3a95f7419247c665b/artifacts
+end_time: 1745746479418
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 251a86d13cba4df3a95f7419247c665b
+run_name: clean-worm-393
+run_uuid: 251a86d13cba4df3a95f7419247c665b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746479400
+status: 3
+tags: []
+user_id: kalu

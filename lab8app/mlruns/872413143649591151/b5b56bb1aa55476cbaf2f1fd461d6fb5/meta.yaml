@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/b5b56bb1aa55476cbaf2f1fd461d6fb5/artifacts
+end_time: 1745813735436
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: b5b56bb1aa55476cbaf2f1fd461d6fb5
+run_name: monumental-yak-338
+run_uuid: b5b56bb1aa55476cbaf2f1fd461d6fb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813735406
+status: 3
+tags: []
+user_id: kalu

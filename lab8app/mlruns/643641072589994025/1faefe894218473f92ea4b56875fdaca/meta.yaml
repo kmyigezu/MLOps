@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/1faefe894218473f92ea4b56875fdaca/artifacts
+end_time: 1745746531659
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: 1faefe894218473f92ea4b56875fdaca
+run_name: clumsy-roo-194
+run_uuid: 1faefe894218473f92ea4b56875fdaca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746530111
+status: 3
+tags: []
+user_id: kalu

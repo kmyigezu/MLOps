@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/6b566fc04bff418598db18da02bb4fcd/artifacts
+end_time: 1745813778928
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: 6b566fc04bff418598db18da02bb4fcd
+run_name: delicate-lark-385
+run_uuid: 6b566fc04bff418598db18da02bb4fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813777279
+status: 3
+tags: []
+user_id: kalu

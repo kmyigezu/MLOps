@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/c124239bfed44a1bb7be49eac3349e55/artifacts
+end_time: 1745746488501
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: c124239bfed44a1bb7be49eac3349e55
+run_name: selective-bug-733
+run_uuid: c124239bfed44a1bb7be49eac3349e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746488232
+status: 3
+tags: []
+user_id: kalu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/d40221b4209442ec93f33729304692ae/artifacts
+end_time: 1745813738458
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: d40221b4209442ec93f33729304692ae
+run_name: dapper-toad-90
+run_uuid: d40221b4209442ec93f33729304692ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813738226
+status: 3
+tags: []
+user_id: kalu

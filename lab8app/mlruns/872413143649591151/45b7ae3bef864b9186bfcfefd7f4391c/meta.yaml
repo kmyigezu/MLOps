@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/45b7ae3bef864b9186bfcfefd7f4391c/artifacts
+end_time: 1745813752976
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 45b7ae3bef864b9186bfcfefd7f4391c
+run_name: welcoming-ram-359
+run_uuid: 45b7ae3bef864b9186bfcfefd7f4391c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813751681
+status: 3
+tags: []
+user_id: kalu

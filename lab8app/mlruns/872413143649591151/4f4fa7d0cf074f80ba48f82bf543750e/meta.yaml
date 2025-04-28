@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/4f4fa7d0cf074f80ba48f82bf543750e/artifacts
+end_time: 1745746481176
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 4f4fa7d0cf074f80ba48f82bf543750e
+run_name: serious-bee-629
+run_uuid: 4f4fa7d0cf074f80ba48f82bf543750e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746480379
+status: 3
+tags: []
+user_id: kalu

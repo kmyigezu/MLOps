@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/c66bfe8bfccb40d1a950afa9a9a382fb/artifacts
+end_time: 1745746487877
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: c66bfe8bfccb40d1a950afa9a9a382fb
+run_name: bittersweet-lark-676
+run_uuid: c66bfe8bfccb40d1a950afa9a9a382fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746487413
+status: 3
+tags: []
+user_id: kalu

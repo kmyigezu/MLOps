@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/2d414ae5d18a42358491ad9ec59fff38/artifacts
+end_time: 1745746534766
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: 2d414ae5d18a42358491ad9ec59fff38
+run_name: unleashed-shad-704
+run_uuid: 2d414ae5d18a42358491ad9ec59fff38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746532841
+status: 3
+tags: []
+user_id: kalu

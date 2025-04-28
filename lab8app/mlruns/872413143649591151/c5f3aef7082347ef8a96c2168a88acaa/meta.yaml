@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/c5f3aef7082347ef8a96c2168a88acaa/artifacts
+end_time: 1745813736122
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: c5f3aef7082347ef8a96c2168a88acaa
+run_name: angry-cat-996
+run_uuid: c5f3aef7082347ef8a96c2168a88acaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813736060
+status: 3
+tags: []
+user_id: kalu

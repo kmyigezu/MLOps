@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/c551785dd8254181b132f6b10b1bde4b/artifacts
+end_time: 1745813741909
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: c551785dd8254181b132f6b10b1bde4b
+run_name: orderly-asp-649
+run_uuid: c551785dd8254181b132f6b10b1bde4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813741331
+status: 3
+tags: []
+user_id: kalu

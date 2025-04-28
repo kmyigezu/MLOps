@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/862a7e1dda7d4f649af77fe9cb004ef9/artifacts
+end_time: 1745746487315
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 862a7e1dda7d4f649af77fe9cb004ef9
+run_name: funny-cod-10
+run_uuid: 862a7e1dda7d4f649af77fe9cb004ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746486622
+status: 3
+tags: []
+user_id: kalu

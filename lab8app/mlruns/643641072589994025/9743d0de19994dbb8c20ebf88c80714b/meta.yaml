@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/9743d0de19994dbb8c20ebf88c80714b/artifacts
+end_time: 1745746496573
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: 9743d0de19994dbb8c20ebf88c80714b
+run_name: skittish-roo-823
+run_uuid: 9743d0de19994dbb8c20ebf88c80714b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746495597
+status: 3
+tags: []
+user_id: kalu

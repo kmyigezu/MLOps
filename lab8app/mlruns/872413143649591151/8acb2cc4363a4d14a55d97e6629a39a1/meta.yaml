@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/8acb2cc4363a4d14a55d97e6629a39a1/artifacts
+end_time: 1745746477650
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 8acb2cc4363a4d14a55d97e6629a39a1
+run_name: shivering-grub-411
+run_uuid: 8acb2cc4363a4d14a55d97e6629a39a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746477591
+status: 3
+tags: []
+user_id: kalu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/39a5c0d96751439bb9edb22d2033b244/artifacts
+end_time: 1745746480248
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 39a5c0d96751439bb9edb22d2033b244
+run_name: burly-rook-666
+run_uuid: 39a5c0d96751439bb9edb22d2033b244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746480229
+status: 3
+tags: []
+user_id: kalu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/e648244874074ad0bd5f18c3aac436f0/artifacts
+end_time: 1745746479392
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: e648244874074ad0bd5f18c3aac436f0
+run_name: learned-rook-843
+run_uuid: e648244874074ad0bd5f18c3aac436f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746479333
+status: 3
+tags: []
+user_id: kalu

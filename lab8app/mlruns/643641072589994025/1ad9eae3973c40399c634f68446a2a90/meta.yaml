@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/1ad9eae3973c40399c634f68446a2a90/artifacts
+end_time: 1745813768743
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: 1ad9eae3973c40399c634f68446a2a90
+run_name: polite-ox-805
+run_uuid: 1ad9eae3973c40399c634f68446a2a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813766800
+status: 3
+tags: []
+user_id: kalu

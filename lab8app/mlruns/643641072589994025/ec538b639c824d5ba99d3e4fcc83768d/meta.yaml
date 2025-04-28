@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/643641072589994025/ec538b639c824d5ba99d3e4fcc83768d/artifacts
+end_time: 1745813759586
+entry_point_name: ''
+experiment_id: '643641072589994025'
+lifecycle_stage: active
+run_id: ec538b639c824d5ba99d3e4fcc83768d
+run_name: awesome-rat-155
+run_uuid: ec538b639c824d5ba99d3e4fcc83768d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813757728
+status: 3
+tags: []
+user_id: kalu

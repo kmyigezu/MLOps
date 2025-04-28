@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/21d9322a3f3a44afb81782a2e234e8eb/artifacts
+end_time: 1745746485041
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 21d9322a3f3a44afb81782a2e234e8eb
+run_name: peaceful-crow-308
+run_uuid: 21d9322a3f3a44afb81782a2e234e8eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746484245
+status: 3
+tags: []
+user_id: kalu

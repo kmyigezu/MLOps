@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/c11d0ecfb9d04fb584990197befffb21/artifacts
+end_time: 1745746483849
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: c11d0ecfb9d04fb584990197befffb21
+run_name: casual-donkey-40
+run_uuid: c11d0ecfb9d04fb584990197befffb21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746483251
+status: 3
+tags: []
+user_id: kalu

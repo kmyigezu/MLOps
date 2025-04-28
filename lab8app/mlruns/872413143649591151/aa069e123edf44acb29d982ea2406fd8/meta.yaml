@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/aa069e123edf44acb29d982ea2406fd8/artifacts
+end_time: 1745813741323
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: aa069e123edf44acb29d982ea2406fd8
+run_name: dashing-gnat-590
+run_uuid: aa069e123edf44acb29d982ea2406fd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813741304
+status: 3
+tags: []
+user_id: kalu

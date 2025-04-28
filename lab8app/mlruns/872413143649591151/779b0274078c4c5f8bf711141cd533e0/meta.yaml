@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/779b0274078c4c5f8bf711141cd533e0/artifacts
+end_time: 1745813744875
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 779b0274078c4c5f8bf711141cd533e0
+run_name: intrigued-crane-145
+run_uuid: 779b0274078c4c5f8bf711141cd533e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745813744698
+status: 3
+tags: []
+user_id: kalu

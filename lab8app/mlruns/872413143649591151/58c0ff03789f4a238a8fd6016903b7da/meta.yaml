@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/872413143649591151/58c0ff03789f4a238a8fd6016903b7da/artifacts
+end_time: 1745746483242
+entry_point_name: ''
+experiment_id: '872413143649591151'
+lifecycle_stage: active
+run_id: 58c0ff03789f4a238a8fd6016903b7da
+run_name: invincible-bat-707
+run_uuid: 58c0ff03789f4a238a8fd6016903b7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745746483223
+status: 3
+tags: []
+user_id: kalu
