@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: reddit-deployment
+  labels:
+    app: reddit
+spec:
+  selector:
+    matchLabels:
+      app: reddit
+  template:
+    metadata:
+      labels:
+        app: reddit
+    spec:
+      containers:
+        - name: reddit-api
+          image: gcr.io/mlops603/reddit_app:latest # Updated image location
+          ports:
+            - containerPort: 8000
+          imagePullPolicy: IfNotPresent
